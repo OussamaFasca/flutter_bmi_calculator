@@ -4,7 +4,7 @@
 
 The objective of this app is to create a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/OussamaFasca/flutter_bmi_calculator/blob/master/bmi.png?raw=true)
+<img src="https://github.com/OussamaFasca/flutter_bmi_calculator/blob/master/bmi.png" alt="BMI Image" width="256"/>
 
 ## Why Flutter
 
